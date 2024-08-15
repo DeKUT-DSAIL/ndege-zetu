@@ -1,0 +1,483 @@
+OS-C,Br.,Cat,English name,Scientific name,Dist,Category
+63,52,FF,African Green Ibis,Bostrychia olivacea,K,Threskiornithidae: Ibises and spoonbills														
+64,,F,Spot-breasted  Ibis,Bostrychia  rara,U,Threskiornithidae: Ibises and spoonbills														
+75,,F,Hartlaub's Duck,Pteronetta hartlaubi,U,Anatidae: Ducks and geese
+97,139,F,African Cuckoo-Hawk,Aviceda cuculoides,KU,"Accipitridae: Vultures,  eagles, hawks etc."
+98,140,F,Eurasian Honey Buzzard,Pernis apivorus,KU,"Accipitridae: Vultures,  eagles, hawks etc."
+99,143,F,Bat Hawk,Macheiramphus alcinus,KU,"Accipitridae: Vultures,  eagles, hawks etc."
+105,87,f,Hooded Vulture,Necrosyrtes monachus,KU,"Accipitridae: Vultures,  eagles, hawks etc."
+113,99,F,Southern Banded Snake Eagle,Circaetus fasciolatus,K,"Accipitridae: Vultures,  eagles, hawks etc."
+114,97,F,Banded Snake Eagle,Circaetus cinerascens,KU,"Accipitridae: Vultures,  eagles, hawks etc."
+117,96,f,African Harrier-Hawk,Polyboroides typus,KU,"Accipitridae: Vultures,  eagles, hawks etc."
+125,111,F,African Goshawk,Accipiter tachiro,KU,"Accipitridae: Vultures,  eagles, hawks etc."
+126,104,FF,Chestnut-flanked Goshawk,Accipiter castanilius,U,"Accipitridae: Vultures,  eagles, hawks etc."
+127,102,f,Shikra,Accipiter badius,KU,"Accipitridae: Vultures,  eagles, hawks etc."
+130,105,FF,(Western) Little Sparrowhawk,Accipiter minullus erythropus,U,"Accipitridae: Vultures,  eagles, hawks etc."
+130,107,f,Little Sparrowhawk,A. m. minullus/A. m. tropicalis,KU,"Accipitridae: Vultures,  eagles, hawks etc."
+133,110,F,Rufous-breasted Sparrowhawk,Accipiter rufiventris,KU,"Accipitridae: Vultures,  eagles, hawks etc."
+134,106,F,Great Sparrowhawk,Accipiter melanoleucus,KU,"Accipitridae: Vultures,  eagles, hawks etc."
+135,136,FF,Long-tailed  Hawk,Urotriorchis macrourus,U,"Accipitridae: Vultures,  eagles, hawks etc."
+137,129,f,Lizard Buzzard,Kaupifalco monogrammicus,KU,"Accipitridae: Vultures,  eagles, hawks etc."
+139,124,FF,Mountain Buzzard,Buteo oreophilus,KU,"Accipitridae: Vultures,  eagles, hawks etc."
+154,126,F,Ayres's Hawk Eagle,Hieraaeius ayresii,KU,"Accipitridae: Vultures,  eagles, hawks etc."
+155,130,f,Long-crested  Eagle,Lophaetus occipitalis,KU,"Accipitridae: Vultures,  eagles, hawks etc."
+156,125,FF,Cassin's Hawk Eagle,Spizaetus africanus,U,"Accipitridae: Vultures,  eagles, hawks etc."
+157,135,FF,African Crowned Eagle,Stephanoaetus  coronatus,KU,"Accipitridae: Vultures,  eagles, hawks etc."
+166,152,F,African Hobby ,Falco cuvieri,KU,Falconidae: Falcons
+184,174,FF,Forest Francolin,Francolinus lathami,U,Phasianidae: Quails and francolins
+191,178,FF,Nahan's Francolin,Francolinus nahani,U,Phasianidae: Quails and francolins
+195,184,F,Scaly Francolin,Francolinus squamatus,KU,Phasianidae: Quails and francolins
+196,173,F,Jackson's Francolin,Francolinus jacksoni,KU,Phasianidae: Quails and francolins
+197,179,FF,Handsome Francolin ,Francolinus nobilis,U,Phasianidae: Quails and francolins
+202,21,F,Crested Guineafowl  ,Guttera pucherani,KU,Numididae: Guineafowl
+208,213,F,White-spotted  Flufftail,Sarothrura pulchra,KU,Rallidae: Rails and relatives
+209,211,FF,Buff-spotted  Flufftail,Sarothrura elegans,KU,Rallidae: Rails and relatives
+214,200,FF,Nkulengu Rail,Himantomis haematopus,U,Rallidae: Rails and relatives
+354,357,F,African Green Pigeon ,Treron calva,KU,Columbidae: Pigeons and doves
+357,357,F,Tambourine Dove,Turtur tympanistria,KU,Columbidae: Pigeons and doves
+358,355,f,Blue-spotted Wood Dove,Turtur afer,KU,Columbidae: Pigeons and doves
+359,356,f,Emerald-spotted Wood Dove,Turtur chalcospilos,KU,Columbidae: Pigeons and doves
+362,338,FF,White-naped Pigeon,Columba albinucha,U,Columbidae: Pigeons and doves
+363,343,FF,Western Bronze-naped Pigeon,Columba iriditorques,U,Columbidae: Pigeons and doves
+364,340,FF,Eastern Bronze-naped Pigeon,Columba delegorguei,KU,Columbidae: Pigeons and doves
+365,339,FF,Olive Pigeon,Columba arquatrix,KU,Columbidae: Pigeons and doves
+367,344,FF,Afep Pigeon,Columba unicincta,KU,Columbidae: Pigeons and doves
+369,337,FF,Lemon Dove,Aplopelia larvata,KU,Columbidae: Pigeons and doves
+370,350,f,Red-eyed Dove,Streptopelia semitorquata,KU,Columbidae: Pigeons and doves
+373,346,f,Ring-necked  Dove,Streptopelia capicola,KU,Columbidae: Pigeons and doves
+376,348,f,Dusky Turtle Dove,Streptopelia lugens,KU,Columbidae: Pigeons and doves
+379,368,f,Brown-necked  Parrot,Poicephalus suahelicus,U,Psittacidae: Parrots and lovebirds
+380,366,FF,Red-fronted Parrot,Poicephalus gulielmi,KU,Psittacidae: Parrots and lovebirds
+382,365,F,Brown-headed  Parrot,Poicephalus cryptoxanthus,K,Psittacidae: Parrots and lovebirds
+384,363,f,Red-headed  Lovebird,Agapomis pullarius,KU,Psittacidae: Parrots and lovebirds
+385,364,F,Black-collared Lovebird,Agapomis swindemianus,U,Psittacidae: Parrots and lovebirds
+391,377,F,Ross's Turaco,Musophaga rossae,KU,Musophagidae: Turacos
+392,380,FF,Ruwenzori Turaco,Ruwenzoromis  johnstoni,U,Musophagidae: Turacos
+393,383,f,Purple-crested Turaco,Tauraco porphyreolophus,KU,Musophagidae: Turacos
+396,384,FF,Black-billed Turaco,Tauraco schuettii,KU,Musophagidae: Turacos
+397,378,F,Fischer's Turaco,Tauraco fischeri,K,Musophagidae: Turacos
+398,379,FF,Hartlaub's Turaco,Tauraco hartlaubi,KU,Musophagidae: Turacos
+399,381,f,White-crested  Turaco,Tauraco leucolophus,KU,Musophagidae: Turacos
+405,394,f,Levaillant's Cuckoo,Oxylophus levaillantii,KU,Cuculidae: Cuckoos and coucals
+407,400,f,Thick-billed Cuckoo,Pachycoccyx audeberti,KU,Cuculidae: Cuckoos and coucals
+408,396,f,Black Cuckoo (i),Cuculus clamosus gabonensis,KU,Cuculidae: Cuckoos and coucals
+408,396,FF,Black Cuckoo (ii),Cuculus clamosus clamosus,KU,Cuculidae: Cuckoos and coucals
+409,399,F,Red-chested  Cuckoo,Cuculus solitarius,KU,Cuculidae: Cuckoos and coucals
+412,398,f,Asian Lesser Cuckoo,Cuculus poliocephalus,KU,Cuculidae: Cuckoos and coucals
+413,398,f,Madagascar Lesser Cuckoo,Cuculus rochii,KU,Cuculidae: Cuckoos and coucals
+414,385,FF,Dusky Long-tailed Cuckoo,Cercococcyx mechowi,U,Cuculidae: Cuckoos and coucals
+415,387,FF,Olive Long-tailed Cuckoo,Cercococcyx olivinus,U,Cuculidae: Cuckoos and coucals
+416,386,FF,Barred Long-tailed Cuckoo,Cercococcyx montanus,KU,Cuculidae: Cuckoos and coucals
+417,389,F,African Emerald Cuckoo,Chrysococcyx cupreus,KU,Cuculidae: Cuckoos and coucals
+418,390,FF,Yellow-throated Cuckoo,Chrysococcyx  jlavigularis,U,Cuculidae: Cuckoos and coucals
+419,391,f,Klaas's Cuckoo,Chrysococcyx klaas,KU,Cuculidae: Cuckoos and coucals
+421,401,F,Yellowbill,Ceuthmochares aereus,KU,Cuculidae: Cuckoos and coucals
+425,405,f,Senegal Coucal,Centropus senegalensis,KU,Cuculidae: Cuckoos and coucals
+430,421,FF,Sokoke Scops Owl,Otus ireneae,K,Strigidae: Typical owls
+437,415,FF,Fraser's Eagle Owl,Bubo poensis,U,Strigidae: Typical owls
+440,425,F,Pel's Fishing Owl,Scotopelia peli,KU,Strigidae: Typical owls
+442,420,FF,Red-chested Owlet,Glaucidium tephronotum,KU,Strigidae: Typical owls
+443,417,F,African Barred Owlet,Glaucidium capense schlefferi ,K,Strigidae: Typical owls
+443,418,FF,Chestnut Owlet,Glaucidium capense castaneum,U,Strigidae: Typical owls
+444,416,F,African Wood Owl,Strix woodfordi,KU,Strigidae: Typical owls
+445,411,FF,African Long-eared  Owl,Asio abyssinicus,KU,Strigidae: Typical owls
+448,436,F,Fiery-necked  Nightjar,Caprimulgus  pectoralis,KU,Caprimulgidae: Nightjars
+449,437,F,Montane Nightjar,Caprimulgus  poliocephalus,KU,Caprimulgidae: Nightjars
+458,426,FF,Bates' s Nightjar,Caprimulgus batesi,U,Caprimulgidae: Nightjars
+464,436,F,Sabine's Spinetail,Raphidura sabini,KU,Apodidae: Swifts
+465,455,FF,Cassin' s Spinetail,Neafrapus cassini,U,Apodidae: Swifts
+466,454,F,Bohm's Spinetail,Neafrapus boehmi,K,Apodidae: Swifts
+467,457,F,Mottled Spinetail,Telacanthura ussheri,KU,Apodidae: Swifts
+468,453,F,Scarce Swift,Schoutedenapus myoptilus,KU,Apodidae: Swifts
+464,436,F,Narina Trogon,Apaloderma narina,KU,Trogonidae: Trogons
+485,463,FF,Bar-tailed Trogon,Apaloderma vittatum ,KU,Trogonidae: Trogons
+486,473,f,Grey-headed  Kingfisher,Halcyon leucocephala,KU,Alcedinidae: Kingfishers
+490,474,F,Blue-breasted Kingfisher,Halcyon malimbica,U,Alcedinidae: Kingfishers
+492,471,FF,Chocolate-backed Kingfisher,Halcyon badia,U,Alcedinidae: Kingfishers
+493,469,F,Half-collared  Kingfisher,Alcedo semitorquata,K,Alcedinidae: Kingfishers
+494,468,FF,Shining-blue Kingfisher,Alcedo quadribrachys,KU,Alcedinidae: Kingfishers
+496,467,FF,White-bellied Kingfisher,Alcedo leucogaster,U,Alcedinidae: Kingfishers
+497,478,f,African Pygmy Kingfisher,lspidina picta,KU,Alcedinidae: Kingfishers
+498,477,FF,African Dwarf Kingfisher,Ispidina lecontei,U,Alcedinidae: Kingfishers
+501,480,f,Eurasian Bee-eater,Merops apiaster,KU,Meropidae: Bee-eaters
+505,479,f,White-throated Bee-eater,Merops albicollis,KU,Meropidae: Bee-eaters
+508,484,FF,Black Bee-eater,Merops gularis,U,Meropidae: Bee-eaters
+509,486,FF,Blue-headed Bee-eater,Merops muelleri,K,Meropidae: Bee-eaters
+514,488,F,Cinnamon-chested Bee-eater,Merops oreobates,KU,Meropidae: Bee-eaters
+522,500,f,Broad-billed  Roller,Eurystomus glaucurus,KU,Coraciidae: Rollers
+523,501,FF,Blue-throated  Roller,Eurystomus gularis,U,Coraciidae: Rollers
+525,503,FF,White-headed Wood-hoopoe,Phoeniculus bollei,KU,Phoeniculidae: Wood-hoopoes
+526,504,FF,Forest Wood-hoopoe,Phoeniculus castaneiceps,U,Phoeniculidae: Wood-hoopoes
+535,526,FF,White-crested  Hombill,Tropicranus albocristatus,U,Bucerotidae: Hornbills
+536,521,FF,Black Dwarf Hombill,Tockus hartlaubi,U,Bucerotidae: Hornbills
+537,516,FF,Red-billed Dwarf  Hombill,Tockus camurus,U,Bucerotidae: Hornbills
+543,515,f,Crowned  Hombill,Tockus alboterminatus,KU,Bucerotidae: Hornbills
+544,519,F,African Pied Hombill,Tockus fasciatus,U,Bucerotidae: Hornbills
+547,510,F,Trumpeter  Hornbill,Bycanistes bucinator,K,Bucerotidae: Hornbills
+548,512,FF,Piping Hombill,Bycanistes fistulator,U,Bucerotidae: Hornbills
+549,509,F,Silvery-cheeked Hornbill,Bycanistes brevis,K,Bucerotidae: Hornbills
+550,513,F,Black-and-white-casqued Hombill,Bycanistes subcylindricus,KU,Bucerotidae: Hornbills
+551,511,FF,White-thighed Hombill,Bycanistes cylindricus,U,Bucerotidae: Hornbills
+552,514,FF,Black-wattled Hombill,Ceratogymna atrata,U,Bucerotidae: Hornbills
+553,533,F,Grey-throated Barbet,Gymnobucco bonapartei,KU,Capitonidae: Barbets and tinkerbirds
+554,530,F,White-eared  Barbet,Stactolaema leucotis,KU,Capitonidae: Barbets and tinkerbirds
+556,531,FF,Green Barbet,Stactolaema olivacea,K,Capitonidae: Barbets and tinkerbirds
+557,553,F,Speckled Tinkerbird,Pogoniulus scolopaceus,KU,Capitonidae: Barbets and tinkerbirds
+558,550,FF,Western Green Tinkerbird,Pogoniulus coryphaeus,U,Capitonidae: Barbets and tinkerbirds
+559,554,FF,Eastern Green Tinkerbird,Pogoniulus simplex,K,Capitonidae: Barbets and tinkerbirds
+560,551,FF,Moustached Green Tinkerbird,Pogoniulus leucomystax,KU,Capitonidae: Barbets and tinkerbirds
+561,547,FF,Red-rumped Tinkerbird,Pogoniulus atrojlavus,U,Capitonidae: Barbets and tinkerbirds
+562,555,FF,Yellow-throated Tinkerbird,Pogoniulus subsulphureus,U,Capitonidae: Barbets and tinkerbirds
+563,548,F,Yellow-rumped  Tinkerbird,Pogoniulus bilineatus,KU,Capitonidae: Barbets and tinkerbirds
+566,529,FF,Yellow-spotted Barbet,Buccanodon duchaillui,KU,Capitonidae: Barbets and tinkerbirds
+567,538,F,Hairy-breasted Barbet,Tricholaema hirsuta,KU,Capitonidae: Barbets and tinkerbirds
+573,545,F,Red-faced Barbet,Lybius rubrifacies,U,Capitonidae: Barbets and tinkerbirds
+575,546,f,Black-collared Barbet,Lybius torquatus,KU,Capitonidae: Barbets and tinkerbirds
+576,576,f,Brown-breasted Barbet,Lybius melanopterus,K,Capitonidae: Barbets and tinkerbirds
+578,534,f,Double-toothed Barbet,Lybius bidentatus,KU,Capitonidae: Barbets and tinkerbirds
+580,556,F,Yellow-billed Barbet,Trachylaemus  purpuratus,KU,Capitonidae: Barbets and tinkerbirds
+584,564,FF,Spotted Honeyguide,Indicator maculatus,U,Indicatoridae: Honeyguides
+585,569,f,Scaly-throated Honeyguide,Indicator variegatus,KU,Indicatoridae: Honeyguides
+586,563,f,Greater Honeyguide,Indicator indicator,KU,Indicatoridae: Honeyguides
+587,566,f,Lesser Honeyguide,Indicator exilis,KU,Indicatoridae: Honeyguides
+588,561,FF,Thick-billed  Honeyguide,Indicator conirostris,KU,Indicatoridae: Honeyguides
+589,562,FF,Least Honeyguide,Indicator exilis,KU,Indicatoridae: Honeyguides
+590,570,FF,Willcocks' s Honeyguide,Indicator willcocksi,U,Indicatoridae: Honeyguides
+591,568,FF,Dwarf Honeyguide,Indicator pumilio,U,Indicatoridae: Honeyguides
+592,565,f,Pallid Honeyguide,Indicator meliphilus,KU,Indicatoridae: Honeyguides
+593,,FF,Lyre-tailed Honeyguide,Melichneutes robustus,U,Indicatoridae: Honeyguides
+594,571,FF,Zenker's Honeyguide,Melignomon zenkeri,U,Indicatoridae: Honeyguides
+595,572,FF,Cassin's Honeybird,Prodotiscus insignis,KU,Indicatoridae: Honeyguides
+596,574,f,Eastern Honeybird,Prodotiscus zambesiae,K,Indicatoridae: Honeyguides
+597,573,f,Wahlberg's Honeybird,Prodotiscus regulus,KU,Indicatoridae: Honeyguides
+599,575,f,Red-throated Wryneck,lynx ruficollis,KU,Picidae: Wrynecks and woodpeckers
+600,577,FF,African Piculet,Sasia africana,U,Picidae: Wrynecks and woodpeckers
+603,578,F,Golden-tailed  Woodpecker,Campethera abingoni,KU,Picidae: Wrynecks and woodpeckers
+604,,F,Mombasa Woodpecker,Campethera mombassica,K,Picidae: Wrynecks and woodpeckers
+605,580,f,Green-backed  Woodpecker,Campethera cailliautii,KU,Picidae: Wrynecks and woodpeckers
+606,584,FF,Fine-banded Woodpecker,Campethera tullbergi,KU,Picidae: Wrynecks and woodpeckers
+607,582,F,Buff-spotted Woodpecker,Campethera nivosa,KU,Picidae: Wrynecks and woodpeckers
+608,581,F,Brown-eared Woodpecker,Campethera caroli,KU,Picidae: Wrynecks and woodpeckers
+610,585,f,Cardinal Woodpecker (race Lepidus),Dendropicos fuscescens lepidus,KU,Picidae: Wrynecks and woodpeckers
+611,586,F,Gabon Woodpecker,Dendropicos gabonensis,U,Picidae: Wrynecks and woodpeckers
+613,594,f,Bearded Woodpecker,Dendropicos namaquus,KU,Picidae: Wrynecks and woodpeckers
+614,592,F,Yellow-crested Woodpecker,Dendropicos xantholophus,KU,Picidae: Wrynecks and woodpeckers
+615,589,FF,Elliot's Woodpecker,Dendropicos elliotii,U,Picidae: Wrynecks and woodpeckers
+616,590,f,Grey Woodpecker,Dendropicos goertae,KU,Picidae: Wrynecks and woodpeckers
+617,591,FF,Olive Woodpecker,Dendropicos griseocephalus,U,Picidae: Wrynecks and woodpeckers
+619,596,FF,African Broadbill,Smithomis capensis,KU,Eurylaimidae: Broadbills
+620,597,FF,Red-sided Broadbill,Smitomis rufolateralis,U,Eurylaimidae: Broadbills
+621,598,FF,African Green Broadbill,Pseudocalyptomena graueri,U,Eurylaimidae: Broadbills
+622,598,FF,African Pitta,Pitta angolensis,KU,Pittidae: Pittas
+623,599,FF,Green-breasted Pitta,Pitta reichenowi,U,Pittidae: Pittas
+656,,FF,White-throated Blue Swallow,Hirundo nigrita ,U,Hirundinidae: Swallow and martins
+670,639,f,White-headed Saw-wing,Psalidoprocne albiceps,KU,Hirundinidae: Swallow and martins
+672,640,f,Black Saw-wing ,Psalidoprocne holomelas,KU,Hirundinidae: Swallow and martins
+675,994,F,Grey Wagtail,Motacilla cinerea,KU,"Motacillidae:  Wagtails,  pipits and longclaws"
+676,995,F,Mountain Wagtail,Motacilla clara,KU,"Motacillidae:  Wagtails,  pipits and longclaws"
+689,984,f,Tree Pipit,Anthus trivia/is,KU,"Motacillidae:  Wagtails,  pipits and longclaws"
+692,983,FF,Sokoke Pipit,Anthus sokokensis,K,"Motacillidae:  Wagtails,  pipits and longclaws"
+698,697,FF,Cameroon Sombre Greenbul,Andropadus curvirostris,KU,Pycnonotidae: Bulbuls
+699,699,FF,Little Grey Greenbul,Andropadus gracilis,KU,Pycnonotidae: Bulbuls
+700,696,FF,Ansorge 's Greenbul,Andropadus ansorgei,K,Pycnonotidae: Bulbuls
+701,705,F,Little Greenbul,Andropadus virens,KU,Pycnonotidae: Bulbuls
+702,701,F,Yellow-whiskered Greenbul,Andropadus latirostris,KU,Pycnonotidae: Bulbuls
+703,698,FF,Slender-billed Greenbul,Andropadus gracilirostris,KU,Pycnonotidae: Bulbuls
+704,702,FF,Shelley's Greenbul,Andropadus masukuensis,KU,Pycnonotidae: Bulbuls
+705,704,FF,Mountain Greenbul,Andropadus nigriceps,KU ,Pycnonotidae: Bulbuls
+707,703,FF,Stripe-cheeked Greenbul,Andropadus milanjensis,K,Pycnonotidae: Bulbuls
+709,721,F,Grey-olive Greenbul,Phyllastrephus cerviniventris,K,Pycnonotidae: Bulbuls
+710,719,FF,Toro Olive Greenbul,Phyllastrephus hypochloris,KU,Pycnonotidae: Bulbuls
+711,726,FF,Sassi's Olive Greenbul,Phyllastrephus lorenzi,U,Pycnonotidae: Bulbuls
+712,723,FF,Fischer's Greenbul,Phyllastrephus fischeri,K,Pycnonotidae: Bulbuls
+713,727,FF,Cabanis' s Greenbul,Phyllastrephus cabanisi,KU,Pycnonotidae: Bulbuls
+714,729,f,Northern Brownbul,Phyllastrephus strepitans,KU,Pycnonotidae: Bulbuls
+715,730,F,Terrestrial Brownbul,Phyllastrephus terrestris,K,Pycnonotidae: Bulbuls
+716,718,FF,White-throated Greenbul,Phyllastrephus albigularis,U,Pycnonotidae: Bulbuls
+717,725,FF,Icterine Greenbul,Phyllastrephus icterinus,U,Pycnonotidae: Bulbuls
+718,731,FF,Xavier's Greenbul,Phyllastrephus xavieri,U,Pycnonotidae: Bulbuls
+719,724,FF,Yellow-streaked Greenbul,Phyllastrephus flavostriatus,KU,Pycnonotidae: Bulbuls
+720,722,FF,Tiny Greenbul,Phyllastrephus debilis,K,Pycnonotidae: Bulbuls
+721,728,F,Leaflove,Pyrrhurus scandens,U,Pycnonotidae: Bulbuls
+722,733,F,Swamp Greenbul,Thescelocichla leucopleura,U,Pycnonotidae: Bulbuls
+723,706,FF,Honeyguide Greenbul,Baeopogon indicator,KU,Pycnonotidae: Bulbuls
+724,715,FF,Spotted Greenbul,Ixonotus guttatus,U,Pycnonotidae: Bulbuls
+725,711,F,Joyful Greenbul,Chlorocichla laetissima,KU,Pycnonotidae: Bulbuls
+726,710,F,Yellow-bellied Greenbul,Chlorocichla flaviventris,K,Pycnonotidae: Bulbuls
+727,712,F,Simple Greenbul,Chlorocichla simplex,U,Pycnonotidae: Bulbuls
+728,709,f,Yellow-throated Leaflove,Chlorocichla flavicollis,KU,Pycnonotidae: Bulbuls
+729,732,f,Common Bulbul,Pycnonotus barbatus,KU,Pycnonotidae: Bulbuls
+730,708,FF,Red-tailed Bristlebill,Bleda syndactyla,KU,Pycnonotidae: Bulbuls
+731,707,FF,Green-tailed Bristlebill,Bleda eximia,U,Pycnonotidae: Bulbuls
+732,713,FF,Eastern Bearded Greenbul,Criniger chloronotus,U,Pycnonotidae: Bulbuls
+733,714,FF,Red-tailed Greenbul,Criniger calurus,U,Pycnonotidae: Bulbuls
+734,716,F,Western Nicator,Nicator chloris,U,Pycnonotidae: Bulbuls
+735,716,F,Eastern Nicator,Nicator gularis,K,Pycnonotidae: Bulbuls
+736,717,FF,Yellow-throated Nicator,Nicator vireo,U,Pycnonotidae: Bulbuls
+737,671,FF,African Hill Babbler,Pseudoalcippe abyssinica,KU,Timaliidae: Babblers
+748,673,FF,Capuchin Babbler,Phyllanthus atripennis,U,Timaliidae: Babblers
+749,672,FF,Grey-chested Illadopsis,Kakamega poliothorax,KU,Timaliidae: Babblers
+750,675,FF,Brown Illadopsis,Illadopsis fulvescens,KU,Timaliidae: Babblers
+751,676,FF,Mountain Illadopsis,Illadopsis pyrrhoptera,KU,Timaliidae: Babblers
+752,677,FF,Pale-breasted Illadopsis,Illadopsis rufipennis,KU,Timaliidae: Babblers
+753,674,FF,Scaly-breasted Illadopsis,Illadopsis albipectus,KU,Timaliidae: Babblers
+,,FF,Puvel' s Illadopsis,Illadopsis puveli ,U,Timaliidae: Babblers
+756,783,F,White-starred Robin,Pogonocichla  stellata,KU,Turdidae: Thrushes and relatives
+760,786,FF,Lowland Akalat,Sheppardia cyomithopsis,U,Turdidae: Thrushes and relatives
+761,785,FF,Equatorial Akalat,Sheppardia aequatorialis,KU,Turdidae: Thrushes and relatives
+763,787,FF,East Coast Akalat,Sheppardia gunningi,K,Turdidae: Thrushes and relatives
+766,761,FF,Grey-winged  Robin,Sheppardia polioptera,KU,Turdidae: Thrushes and relatives
+767,757,F,Archer's Robin-Chat,Cossypha archeri,U,Turdidae: Thrushes and relatives
+769,749,f,Cape Robin Chat,Cossypha caffra,KU,Turdidae: Thrushes and relatives
+770,752,F,Red-capped Robin Chat,Cossypha natalensis,KU,Turdidae: Thrushes and relatives
+771,755,F,Riippell's Robin Chat,Cossypha semirufa,K,Turdidae: Thrushes and relatives
+772,751,f,White-browed  Robin Chat,Cossypha heuglini,KU,Turdidae: Thrushes and relatives
+773,750,F,Blue-shouldered Robin Chat,Cossypha cyanocampter,KU,Turdidae: Thrushes and relatives
+774,753,F,Snowy-headed  Robin Chat,Cossypha niveicapilla,KU,Turdidae: Thrushes and relatives
+775,754,FF,White-bellied  Robin Chat,Cossyphicula  roberti,U,Turdidae: Thrushes and relatives
+776,734,FF,Fire-crested  Alethe,Alethe diademata,U,Turdidae: Thrushes and relatives
+777,737,FF,Red-throated Alethe,Alethe poliophrys,U,Turdidae: Thrushes and relatives
+778,736,FF,Brown-chested  Alethe,Alethe poliocephala,KU,Turdidae: Thrushes and relatives
+780,773,FF,Red-tailed Ant Thrush,Neocossyphus rufus,KU,Turdidae: Thrushes and relatives
+781,772,FF,White-tailed Ant Thrush,Neocossyphus poensis,KU,Turdidae: Thrushes and relatives
+787,743,f,Brown-backed  Scrub Robin,Cercotrichas hartlaubi,KU,Turdidae: Thrushes and relatives
+788,746,f,Eastern Bearded Scrub Robin,Cercotrichas quadrivirgata,K,Turdidae: Thrushes and relatives
+790,745,FF,Northern Bearded Scrub Robin,Cercotrichas leucosticta,U,Turdidae: Thrushes and relatives
+812,790,FF,Rufous Thrush,Stizorhina fraseri,U,Turdidae: Thrushes and relatives
+816,793,F,Olive Thrush,Turdus olivaceus,KU,Turdidae: Thrushes and relatives
+817,,FF,Taita Thrush,Turdus (olivaceus) helleri,K,Turdidae: Thrushes and relatives
+818,801,f,African Thrush,Turdus pelios,KU,Turdidae: Thrushes and relatives
+822,795,FF,Spotted Ground Thrush,Zoothera guttata,K,Turdidae: Thrushes and relatives
+823,794,FF,Black-eared  Ground Thrush,Zoothera cameronensis,U,Turdidae: Thrushes and relatives
+824,,FF,Grey Ground Thrush,Zoothera princei,U,Turdidae: Thrushes and relatives
+825,796,FF,Orange Ground Thrush,Zoothera gurneyi,K,Turdidae: Thrushes and relatives
+826,802,FF,Abyssinian Ground Thrush,Zoothera piaggiae,KU,Turdidae: Thrushes and relatives
+827,803,FF,Kivu Ground Thrush,Zoothera tanganjicae,U,Turdidae: Thrushes and relatives
+828,800,FF,Forest Ground Thrush,Zoothera oberlaenderi,U,Turdidae: Thrushes and relatives
+831,936,F,African Dusky Flycatcher,Muscicapa adusta,KU,Muscicapidae: Old World flycatchers
+832,943,FF,Chapin' s Flycatcher,Muscicapa lendu,KU,Muscicapidae: Old World flycatchers
+834,939,F,Cassin's Grey Flycatcher,Muscicapa cassini,U,Muscicapidae: Old World flycatchers
+835,944,FF,Yellow-footed  Flycatcher,Muscicapa sethsmithi,U,Muscicapidae: Old World flycatchers
+836,938,F,Ashy Flycatcher,Muscicapa caerulescens,KU,Muscicapidae: Old World flycatchers
+837,940,F,Dusky Blue Flycatcher,Muscicapa comitata,U,Muscicapidae: Old World flycatchers
+838,926,FF,Sooty Flycatcher,Muscicapa fuliginosa,U,Muscicapidae: Old World flycatchers
+840,933,F,White-eyed Slaty Flycatcher,Melaenomis fischeri,KU,Muscicapidae: Old World flycatchers
+841,932,F,Yellow-eyed Black Flycatcher,Melaenornis ardesiaca,U,Muscicapidae: Old World flycatchers
+847,931,F,Forest Flycatcher,Fraseria ocreata,U,Muscicapidae: Old World flycatchers
+850,946,f,Lead-coloured  Flycatcher,Myioparus plumbeus,KU,Muscicapidae: Old World flycatchers
+851,942,FF,Grey-throated Flycatcher,Myioparus griseigularis,KU,Muscicapidae: Old World flycatchers
+869,918,f,Garden Warbler,Sylvia borin,KU,Sylviidae: Old World warblers
+870,917,F,Blackcap,Sylvia atricapilla,KU,Sylviidae: Old World warblers
+871,907,F,Wood Warbler,Phylloscopus sibilatrix,KU,Sylviidae: Old World warblers
+872,904,F,Chiffchaff,Phylloscopus collybita,KU,Sylviidae: Old World warblers
+873,908,f,Willow Warbler,Phylloscopus trochilus,KU,Sylviidae: Old World warblers
+874,903,FF,Uganda Woodland  Warbler,Phylloscopus budongoensis,KU,Sylviidae: Old World warblers
+875,905,FF,Red-faced Woodland Warbler,Phylloscopus laetus,U,Sylviidae: Old World warblers
+876,909,F,Brown Woodland Warbler,Phylloscopus umbrovirens,KU,Sylviidae: Old World warblers
+877,906,F,Yellow-throated Woodland Warbler,Phylloscopus ruficapillus,K,Sylviidae: Old World warblers
+879,889,F,Green Hylia,Hylia prasina,KU,Sylviidae: Old World warblers
+883,833,FF,Evergreen Forest Warbler,Bradypterus lopezi,KU,Sylviidae: Old World warblers
+884,835,F,Cinnamon Bracken Warbler,Bradypterus cinnamomeus,KU,Sylviidae: Old World warblers
+885,831,F,Bamboo Warbler,Bradypterus alfredi,U,Sylviidae: Old World warblers
+886,829,FF,Black-faced Rufous Warbler,Bathmocercus  rufus,KU,Sylviidae: Old World warblers
+892,844,F,Mountain Yellow Warbler,Chloropeta  similis,KU,Sylviidae: Old World warblers
+898,855,F,Chubb's Cisticola,Cisticola chubbi,KU,Sylviidae: Old World warblers
+899,861,F,Hunter's Cisticola,Cisticola hunteri,KU,Sylviidae: Old World warblers
+924,913,f,Tawny-flanked  Prinia,Prinia subflava,KU,Sylviidae: Old World warblers
+926,910,F,Banded Prinia,Prinia bairdii,KU,Sylviidae: Old World warblers
+927,911,F,White-chinned Prinia,Prinia leucopogon,KU,Sylviidae: Old World warblers
+933,837,f,Grey-backed Camaroptera,Camaroptera brachyura,KU,Sylviidae: Old World warblers
+934,838,FF,Olive-green Camaroptera,Camaroptera  chloronota,KU,Sylviidae: Old World warblers
+935,841,FF,Yellow-browed  Camaroptera,Camaroptera  superciliosus,U,Sylviidae: Old World warblers
+936,818,f,Yellow-breasted Apalis,Apalis flavida,KU,Sylviidae: Old World warblers
+937,815,FF,Masked Apalis,Apalis binotata,U,Sylviidae: Old World warblers
+938,815,FF,Montane Masked Apalis,Apalis personata,U,Sylviidae: Old World warblers
+939,823,FF,Black-capped  Apalis,Apalis nigriceps,U,Sylviidae: Old World warblers
+940,824,F,Chestnut-throated Apalis,Apalis porphyrolaema,KU,Sylviidae: Old World warblers
+942,826,FF,Buff-throated  Apalis,Apalis rufogularis,KU,Sylviidae: Old World warblers
+945,817,FF,Grey Apalis,Apalis cinerea,KU,Sylviidae: Old World warblers
+946,813,F,Brown-headed  Apalis,Apalis alticola,K,Sylviidae: Old World warblers
+947,821,FF,Black-headed  Apalis,Apalis melanocephala,K,Sylviidae: Old World warblers
+948,819,FF,Black-throated Apalis,Apalis jacksoni,KU,Sylviidae: Old World warblers
+949,816,FF,White-winged  Apalis,Apalis chariessa,K,Sylviidae: Old World warblers
+950,825,F,Black-collared Apalis,Apalis pulchra,KU,Sylviidae: Old World warblers
+951,827,FF,Collared Apalis,Apalis ruwenzorii,U,Sylviidae: Old World warblers
+952,828,FF,Bar-throated Apalis,Apalis thoracica,K,Sylviidae: Old World warblers
+956,882,FF,Grauer's Warbler,Graueria vittata,U,Sylviidae: Old World warblers
+957,875,f,Grey-capped Warbler,Eminia lepida,KU,Sylviidae: Old World warblers
+958,895,FF,Grey Longbill,Macrosphenus concolor,U,Sylviidae: Old World warblers
+959,896,FF,Yellow Longbill,Macrosphenus flavicans,U,Sylviidae: Old World warblers
+960,897,FF,Kretschmer's Longbill,Macrosphenus kretschmeri ,K,Sylviidae: Old World warblers
+961,884,FF,Short-tailed Warbler,Hemitesia neumanni,U,Sylviidae: Old World warblers
+967,923,FF,White-browed  Crombec,Sylvietta leucophrys,KU,Sylviidae: Old World warblers
+968,,FF,Lemon-bellied Crombec,Sylvietta denti,U,Sylviidae: Old World warblers
+969,924,F,Green Crombec,Sylvietta virens,KU,Sylviidae: Old World warblers
+972,880,F,Green-capped  Eremomela,Eremomela scotops,KU,Sylviidae: Old World warblers
+974,876,F,Brown-crowned  Eremomela,Eremomela badiceps,U,Sylviidae: Old World warblers
+975,881,FF,Turner's Eremomela,Eremomela turneri,KU,Sylviidae: Old World warblers
+979,891,F,Yellow-bellied Hyliota,Hyliota flavigaster,KU,Sylviidae: Old World warblers
+980,890,F,Southern Hyliota,Hyliota australis,KU,Sylviidae: Old World warblers
+981,1131,f,Abyssinian White-eye,Zosterops abyssinicus,K,Zosteropidae: White-eyes
+982,1132,F,Montane White-eye,Zosterops poliogaster,K,Zosteropidae: White-eyes
+983,1133,f,Yellow White-eye,Zosterops senegalensis,KU,Zosteropidae: White-eyes
+987,662,FF,Stripe-breasted Tit,Parus fasciiventer,U,Paridae: Tits
+988,664,FF,Dusky Tit,Parus funereus,KU,Paridae: Tits
+989,666,f,Northern Black Tit,Parus leucomelas,KU,Paridae: Tits
+990,661,f,White-bellied Tit,Parus albiventris,KU,Paridae: Tits
+994,668,f,African Penduline Tit,Anthoscopus caroli,KU,Paridae: Tits
+995,901,FF,Tit-Hylia,Pholidornis rushiae,U,Paridae: Tits
+997,964,FF,Little Yellow  Flycatcher,Erythrocercus holochlorus,K,Monarchidae: Monarch flycatchers
+999,966,FF,Chestnut-capped Flycatcher,Erythrocercus mccalli,U,Monarchidae: Monarch flycatchers
+1000,963,f,African Blue Flycatcher,Elminia longicauda,KU,Monarchidae: Monarch flycatchers
+1001,962,F,White-tailed Blue Flycatcher,Elminia albicauda,U,Monarchidae: Monarch flycatchers
+1002,970,FF,White-tailed Crested Flycatcher,Trochocercus albonotatus,KU,Monarchidae: Monarch flycatchers
+1003,969,FF,White-bellied Crested Flycatcher,Trochocercus albiventris,U,Monarchidae: Monarch flycatchers
+1004,971,FF,Blue-mantled Crested,Trochocercus cyanomelas,KU,Monarchidae: Monarch flycatchers
+1005,972,F,Dusky Crested Flycatcher,Trochocercus nigromitratus,KU,Monarchidae: Monarch flycatchers
+1006,973,FF,Blue-headed Crested Flycatcher,Trochocercus nitens,U,Monarchidae: Monarch flycatchers
+1007,968,f,African Paradise Flycatcher,Terpsiphone viridis,KU,Monarchidae: Monarch flycatchers
+1008,967,FF,Red-bellied Paradise Flycatcher,Terpisphone  rufiventer,KU,Monarchidae: Monarch flycatchers
+1009,956,FF,African Shrike-flycatcher,Bias flammulatus,KU,"Platysteiridae: Batises,  wattle-eyes and relatives"
+1010,955,f,Black-and-white Flycatcher,Bias musicus,KU,"Platysteiridae: Batises,  wattle-eyes and relatives"
+1011,950,FF,Forest Batis,Batis mixta,K,"Platysteiridae: Batises,  wattle-eyes and relatives"
+1012,948,F,Ruwenzori Batis,Batis diops,U,"Platysteiridae: Batises,  wattle-eyes and relatives"
+1014,954,F,Pale Batis,Batis soror,K,"Platysteiridae: Batises,  wattle-eyes and relatives"
+1018,,FF,lturi Batis,Batis ituriensis,U,"Platysteiridae: Batises,  wattle-eyes and relatives"
+1019,960,f,Common Wattle-eye,Platysteira cyanea,KU,"Platysteiridae: Batises,  wattle-eyes and relatives"
+1020,961,F,Black-throated Wattle-eye,Platysteira peltata,KU,"Platysteiridae: Batises,  wattle-eyes and relatives"
+1021,958,FF,Chestnut Wattle-eye,Dyaphorophyia  castanea,KU,"Platysteiridae: Batises,  wattle-eyes and relatives"
+1022,957,FF,Jameson's Wattle-eye,Dyaphorophyia  jamesoni,KU,"Platysteiridae: Batises,  wattle-eyes and relatives"
+1023,959,FF,Yellow-bellied Wattle-eye,Dyaphorophyia  concreta,KU,"Platysteiridae: Batises,  wattle-eyes and relatives"
+1024,1042,FF,Red-billed Helmet-Shrike,Prionops caniceps,U,"Platysteiridae: Batises,  wattle-eyes and relatives"
+1027,1045,f,Retz' s Helmet-Shrike,Prionops retzii,K,"Platysteiridae: Batises,  wattle-eyes and relatives"
+1028,1046,F,Chestnut-fronted Helmet-Shrike,Prionops scopifrons,K,"Platysteiridae: Batises,  wattle-eyes and relatives"
+1038,1035,f,Mackinnon's Fiscal,Lanius mackinnoni,KU,Laniidae: Shrikes
+1051,1013,F,Bocage's Bush-Shrike,Malaconotus bocagei,KU,Malaconotidae: Bush-Shrikes
+1052,1019,f,Sulphur-breasted Bush-Shrike,Malaconotus sulfureopectus,KU,Malaconotidae: Bush-Shrikes
+1053,1017,FF,Black-fronted Bush-Shrike,Malaconotus nigrifrons,K,Malaconotidae: Bush-Shrikes
+1054,1017,FF,Many-coloured  Bush-Shrike,Malaconotus multicolor,U,Malaconotidae: Bush-Shrikes
+1055,1015,F,Doherty' s Bush-Shrike,Malconotus dohertyi,KU,Malaconotidae: Bush-Shrikes
+1056,1018,F,Four-coloured  Bush-Shrike,Malconotus quadricolor,K,Malaconotidae: Bush-Shrikes
+1057,1014,FF,Fiery-breasted Bush-Shrike,Malaconotus cruentus,U,Malaconotidae: Bush-Shrikes
+1058,1016,FF,Lagden's Bush-Shrike,Malaconotus lagdeni,U,Malaconotidae: Bush-Shrikes
+1063,1008,F,Liihder's Bush-Shrike,Laniarius luehderi,KU,Malaconotidae: Bush-Shrikes
+1064,1004,f,Tropical Boubou,Laniarius aethiopicus,KU,Malaconotidae: Bush-Shrikes
+1068,1005,F,Montane Sooty Boubou,Laniarius poensis,U,Malaconotidae: Bush-Shrikes
+1069,1007,FF,Sooty Boubou,Laniarius leucorhynchus,U,Malaconotidae: Bush-Shrikes
+1071,1000,F,Northern Puftback,Dryoscopus gambensis,KU,Malaconotidae: Bush-Shrikes
+1072,999,F,Black-backed  Puftback,Dryoscopus cub/a,K,Malaconotidae: Bush-Shrikes
+1073,1002,FF,Red-eyed  Puftback,Dryoscopus senegalensis,U,Malaconotidae: Bush-Shrikes
+1075,998,FF,Pink-footed Puftback,Dryoscopus angolensis,KU,Malaconotidae: Bush-Shrikes
+1076,688,f,Black Cuckoo-shrike,"Campephaga  fla,va",KU,Campephagidae: Cuckoo-shrikes
+1077,690,f,Red-shouldered Cuckoo-,Campephaga phoenicea,KU,Campephagidae: Cuckoo-shrikes
+1078,689,FF,"shrike
+Petit's Cucko- shrike",Campephaga  petiti,KU,Campephagidae: Cuckoo-shrikes
+1079,691,FF,Purple-throated Cuckoo-,Campephaga quiscalina,KU,Campephagidae: Cuckoo-shrikes
+1080,693,FF,"shrike
+Grey Cuckoo-shrike",Coracina caesia,KU,Campephagidae: Cuckoo-shrikes
+1083,644,F,Velvet-mantled Drongo,Dicrurus modestus,KU,Dicruridae: Drongos
+1084,645,F,Square-tailed  Drongo,Dicrurus ludwigii,KU,Dicruridae: Drongos
+1085,651,f,Eurasian Golden Oriole,Orio/us oriolus,KU,Oriolidae: Orioles
+1086,646,f,African Golden Oriole,Orio/us auratus,KU,Oriolidae: Orioles
+1087,649,f,Black-headed  Oriole,Orio/us larvatus,KU,Oriolidae: Orioles
+1088,652,FF,Montane Oriole,Orio/us percivali,KU,Oriolidae: Orioles
+1089,647,F,Western Black-headed,Orio/us brachyrhynchus,KU,Oriolidae: Orioles
+1090,648,F,"Oriole
+Green-headed  Oriole",Orio/us chlorocephalus,K,Oriolidae: Orioles
+1091,650,FF,Black-winged Oriole,Orio/us nigripennis,U,Oriolidae: Orioles
+1099,1069,FF,Narrow-tailed  Starling,Poeoptera lugubris,U,Sturnidae: Starlings and oxpeckers
+1100,1070,FF,Stuhlmann' s Starling,Poeoptera stuhlmanni,KU,Sturnidae: Starlings and oxpeckers
+1101,1068,FF,Kenrick's Starling,Poeoptera kenricki,K,Sturnidae: Starlings and oxpeckers
+1102,1067,FF,Waller's Starling,Onychognathus walleri,KU,Sturnidae: Starlings and oxpeckers
+1103,1064,f,Red-winged Starling,Onychognathus morio,KU,Sturnidae: Starlings and oxpeckers
+1104,1063,FF,Chestnut-winged Starling,Onychognathus  fulgidus,U,Sturnidae: Starlings and oxpeckers
+1105,1066,F,Slender-billed Starling,Onychognathus tenuirostris,KU,Sturnidae: Starlings and oxpeckers
+1107,1058,F,Purple-headed Starling,Lamprotomis purpureiceps,U,Sturnidae: Starlings and oxpeckers
+1108,1057,F,Black-bellied Starling,Lamprotomis corruscus,K,Sturnidae: Starlings and oxpeckers
+1109,1061,F,Splendid Starling,Lamprotomis splendidus,KU,Sturnidae: Starlings and oxpeckers
+1121,1048,f,Violet-backed Starling,Cinnyricinclus leucogaster,KU,Sturnidae: Starlings and oxpeckers
+1122,1047,FF,Abbott's Starling,Cinnyricinclus femoralis,K,Sturnidae: Starlings and oxpeckers
+1123,1049,FF,Sharpe's Starling,Cinnyricinclus sharpii,KU,Sturnidae: Starlings and oxpeckers
+1131,1081,FF,Grey-headed Sunbird,Anthreptes fraseri,U,Nectarinidae:  Sunbirds
+1132,1088,FF,Plain-backed Sunbird,Anthreptes reichenowi,K,Nectarinidae:  Sunbirds
+1134,1082,f,Western Violet-backed Sunbird,Anthreptes longuemarei,KU,Nectarinidae:  Sunbirds
+1136,1083,FF,Uluguru Violet-backed Sunbird,Anthreptes neglectus,K,Nectarinidae:  Sunbirds
+1137,1085,FF,Amani Sunbird,Anthreptes pallidigaster,K,Nectarinidae:  Sunbirds
+1138,1087,FF,Green Sunbird,Anthreptes rectirostris,KU,Nectarinidae:  Sunbirds
+1140,1080,F,Collared Sunbird,Anthreptes collaris,KU,Nectarinidae:  Sunbirds
+1142,1121,F,Little Green Sunbird,Nectarinia seimundi,U,Nectarinidae:  Sunbirds
+1143,1112,FF,Olive Sunbird,Nectarinia olivacea,KU,Nectarinidae:  Sunbirds
+1144,1129,f,Mouse-coloured Sunbird,Nectarinia veroxii ,K,Nectarinidae:  Sunbirds
+1145,1090,FF,Blue-headed Sunbird,Nectarinia alinae,U,Nectarinidae:  Sunbirds
+1146,1130,F,Green-headed Sunbird,Nectarinia verticalis,KU,Nectarinidae:  Sunbirds
+1147,1097,FF,Blue-throated Brown Sunbird,Nectarinia cyanolaema,U,Nectarinidae:  Sunbirds
+1148,1120,F,Green-throated Sunbird,Nectarinia rubescens,KU,Nectarinidae:  Sunbirds
+1149,1091,f,Amethyst Sunbird,Nectarinia amethystina,KU,Nectarinidae:  Sunbirds
+1152,1128,f,Variable Sunbird,Nectarinia venusta,KU,Nectarinidae:  Sunbirds
+1156,1094,F,Olive-bellied Sunbird,Nectarinia chloropygia,KU,Nectarinidae:  Sunbirds
+1157,1109,F,Tiny Sunbird,Nectarinia minulla,U,Nectarinidae:  Sunbirds
+1158,1105,F,Greater Double-collared Sunbird,Nectarinia afra,U,Nectarinidae:  Sunbirds
+1159,1115,F,Northern Double-collared Sunbird,Nectarinia  preussi,KU,Nectarinidae:  Sunbirds
+1161,1108,F,Eastern Double-collared,Nectarinia mediocris,K,Nectarinidae:  Sunbirds
+1163,1118,F,"Sunbird
+Regal Sunbird",Nectarinia regia,U,Nectarinidae:  Sunbirds
+1166,1092,f,Purple-banded Sunbird,Nectarinia bifasciata,KU,Nectarinidae:  Sunbirds
+1169,1093,F,Orange-tufted Sunbird,Nectarinia bouvieri,KU,Nectarinidae:  Sunbirds
+1176,1096,f,Copper Sunbird,Nectarinia cuprea,KU,Nectarinidae:  Sunbirds
+1177,1126,f,Tacazze Sunbird,Nectarinia tacazze,KU,Nectarinidae:  Sunbirds
+1178,1117,F,Purple-breasted Sunbird,Nectarinia bifasciata,U,Nectarinidae:  Sunbirds
+1179,1103,f,Bronze Sunbird,Nectarinia kilimensis,KU,Nectarinidae:  Sunbirds
+1180,1119,f,Golden-winged Sunbird,Nectarinia reichenowi,KU,Nectarinidae:  Sunbirds
+1181,1099,F,Malachite Sunbird,Nectarinia famosa,KU,Nectarinidae:  Sunbirds
+1183,1125,F,Superb Sunbird,Nectarinia superba,KU,Nectarinidae:  Sunbirds
+1203,1134,f,Grosbeak Weaver,Amblyospiza albifrons,KU,Ploceidae: Weavers and relatives
+1204,1184,f,Compact Weaver,Ploceus superciliosus,KU,Ploceidae: Weavers and relatives
+1205,1159,f,Baglafecht Weaver,Ploceus baglafecht,KU,Ploceidae: Weavers and relatives
+1207,1179,f,Slender-billed Weaver,Ploceus pelzelni,KU,Ploceidae: Weavers and relatives
+1209,1176,f,Black-necked  Weaver,Ploceus nigricollis,KU,Ploceidae: Weavers and relatives
+1210,1177,f,Spectacled Weaver,Ploceus ocularis,KU,Ploceidae: Weavers and relatives
+1211,1174,FF,Black-billed Weaver,Ploceus melanogaster,KU,Ploceidae: Weavers and relatives
+1212,1157,F,Strange Weaver,Ploceus alienus,U,Ploceidae: Weavers and relatives
+1215,1158,f,Orange Weaver,Ploceus aurantius,KU,Ploceidae: Weavers and relatives
+1219,1164,f,Northern Brown-throated,Ploceus castanops,KU,Ploceidae: Weavers and relatives
+1233,1175,f,"Weaver
+Vieillot's Black Weaver",Ploceus nigerrimus,KU,Ploceidae: Weavers and relatives
+1234,1188,F,Weyn's Weaver,Ploceus weynsi,U,Ploceidae: Weavers and relatives
+1235,1167,FF,Clarke's Weaver,Ploceus golandi,K,Ploceidae: Weavers and relatives
+1237,1186,FF,Yellow-mantled Weaver,Ploceus tricolor,KU,Ploceidae: Weavers and relatives
+1238,1156,FF,Maxwell's Black Weaver,Ploceus albinucha,U,Ploceidae: Weavers and relatives
+1239,1161,F,Dark-backed Weaver,Ploceus bicolor,KU,Ploceidae: Weavers and relatives
+1240,1169,FF,Brown-capped  Weaver,Ploceus insignis,KU,Ploceidae: Weavers and relatives
+1243,1154,F,Blue-billed Malimbe,Malimbus nitens,U,Ploceidae: Weavers and relatives
+1244,1153,F,Crested Malimbe,Malimbus malimbicus,U,Ploceidae: Weavers and relatives
+1245,1152,FF,Cassin' s Malimbe,Malimbus cassini,U,Ploceidae: Weavers and relatives
+1246,1155,FF,Red-headed Malimbe,Malimbus rubricollis,KU,Ploceidae: Weavers and relatives
+1268,1252,FF,Red-fronted Antpecker,Parmoptila woodhousei,U,Estrildidae: Waxbills
+1269,1246,F,Grey-headed  Negrofinch,Nigrita canicapilla,KU,Estrildidae: Waxbills
+1270,1248,F,Pale-fronted  Negrofinch,Nigrita luteifrons,U,Estrildidae: Waxbills
+1271,1245,FF,Chestnut-breasted,Nigrita bicolor,U,Estrildidae: Waxbills
+1272,1247,F,"Negrofinch
+White-breasted Negrofinch",Nigrita fusconota,KU,Estrildidae: Waxbills
+1273,1243,f,White-collared Oliveback,Nesocharis ansorgei,U,Estrildidae: Waxbills
+1274,1244,f,Grey-headed Oliveback,Nesocharis capistrata,U,Estrildidae: Waxbills
+1278,1223,F,Red-faced Crimsonwing,Cryptospiza  reichenovii,U,Estrildidae: Waxbills
+1279,1224,F,Abyssinian Crimsonwing,Cryptospiza  salvadorii,KU,Estrildidae: Waxbills
+1280,1222,F,Dusky Crimsonwing,Cryptospiza  jacksoni,U,Estrildidae: Waxbills
+1281,1225,F,Shelley's Crimsonwing,Cryptospiza shelleyi,U,Estrildidae: Waxbills
+1282,1254,F,Black-bellied Seedcracker,Pyrenestes ostrinus,U,Estrildidae: Waxbills
+1284,1258,FF,Grant's Bluebill,Spermophaga  poliogenys,U,Estrildidae: Waxbills
+1285,1259,F,Red-headed  Bluebill,Spermophaga ruficapilla,KU,Estrildidae: Waxbills
+1286,1235,F,Peters' s Twinspot,Hypargos niveoguttatus,K,Estrildidae: Waxbills
+1287,1242,FF,Green-backed  Twinspot,Mandingoa nitidula,KU,Estrildidae: Waxbills
+1288,1221,f,Brown Twinspot,Clytospiza monteiri,KU,Estrildidae: Waxbills
+1290,1220,f,Dusky Twinspot,Euschistospiza cinereovinacea,U,Estrildidae: Waxbills
+1299,1229,f,Yellow-bellied Waxbill,Estrilda quartinia,KU,Estrildidae: Waxbills
+1304,1230,f,Black-crowned  Waxbill,Estrilda nonnula,KU,Estrildidae: Waxbills
+1305,1227,F,Black-headed  Waxbill,Estrilda atricapilla,KU,Estrildidae: Waxbills
+1319,1265,f,Black-and-white Mannikin,Lonchura bicolor,KU,Estrildidae: Waxbills
+1320,1267,f,Magpie Mannikin,Lonchura jringilloides,KU,Estrildidae: Waxbills
+1332,1282,f,Yellow-crowned Canary,Serinus canicollis,KU,Fringillidae: Seed-eaters and canaries
+1333,1283,f,African Citril,Serinus citrellinoides,KU,Fringillidae: Seed-eaters and canaries
+1343,1292,f,Streaky Seed-eater,Serinus striolatus,KU,Fringillidae: Seed-eaters and canaries
+1344,1281,FF,Thick-billed Seed-eater,Serinus burtoni,KU,Fringillidae: Seed-eaters and canaries
+1349,1279,F,Oriole-Finch,Linurgus olivaceus,KU,Fringillidae: Seed-eaters and canaries
