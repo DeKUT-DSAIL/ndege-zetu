@@ -35,14 +35,19 @@ def main():
     parser.add_argument(
         '-e', '--embeddings_dir', help='Embeddings directory.', required=True, type=str)
     parser.add_argument(
-        '-a', '--annotation_file', help='Annotation file (full path).', required=True, type=str)
+        '-a', '--annotation_file', help='Annotation file (full path).', required=False, type=str)
     args = parser.parse_args()
 
-    with open(args.annotation_file, 'r') as fp:
-        single_species_filenames = json.load(fp)
+    if args.annotation_file is not None:
+        with open(args.annotation_file, 'r') as fp:
+            single_species_filenames = json.load(fp)
+        file_list = list(single_species_filenames.keys())
+    else:
+        file_list = os.listdir(args.input_dir)
+        
     model, _ = bhf.load_model()
 
-    for filename in tqdm(list(single_species_filenames.keys())):
+    for filename in tqdm(file_list):
         print(filename)
         audio, sampling_rate = librosa.load(os.path.join(args.input_dir, filename), sr=32000)
         _, wav_data = bhf.ensure_sample_rate(audio, sampling_rate)
