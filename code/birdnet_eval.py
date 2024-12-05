@@ -33,7 +33,8 @@ def species_predictions(predictions):
             recording_species += list(predictions[k].keys())
     
     recording_sn = [sp.split('_')[0] for sp in recording_species]
-    return recording_sn
+    recording_cn = [sp.split('_')[1] for sp in recording_species]
+    return recording_sn, recording_cn
 
 def species_from_df(df):
     '''
@@ -110,19 +111,18 @@ def main():
         audio_path = Path(os.path.join(args.input_dir, filename))
         if len(recording_cn):
             predictions = SpeciesPredictions(predict_species_within_audio_file(audio_path))
-            pred_recording_sn = species_predictions(predictions)
+            pred_recording_sn, pred_recording_cn = species_predictions(predictions)
 
-            print(filename, recording_sn, pred_recording_sn)
+            print(filename, recording_sn, pred_recording_sn, pred_recording_cn)
 
             for sp in recording_sn:
                 recording_species[curr_file, aru_sns.index(sp)] = 1
 
-            for sp in pred_recording_sn:
-                try:
-                    classification_result[curr_file, aru_sns.index(sp)] = 1
-                except ValueError as e:
-                    # some predictions are not in the observations
-                    pass
+            for sn, cn in zip(pred_recording_sn, pred_recording_cn):
+                if sn  in aru_sns:
+                    classification_result[curr_file, aru_sns.index(sn)] = 1
+                if cn in aru_cns:
+                    classification_result[curr_file, aru_cns.index(cn)] = 1
 
                 
             curr_file += 1
