@@ -56,12 +56,18 @@ def log_loss(y_pred, y):
   ce = tf.nn.sigmoid_cross_entropy_with_logits(labels=y, logits=y_pred)
   return tf.reduce_mean(ce)
 
+def predict_class(y_pred, thresh=0.5):
+  # Return a tensor with  `1` if `y_pred` > `0.5`, and `0` otherwise
+  return tf.cast(y_pred > thresh, tf.float32)
 
 def accuracy(y_pred, y):
-  # Compute accuracy after extracting class predictions
-  class_preds = tf.argmax(tf.nn.softmax(y_pred), axis=1)
-  is_equal = tf.equal(y, class_preds)
-  return tf.reduce_mean(tf.cast(is_equal, tf.float32))
+  # Return the proportion of matches between `y_pred` and `y`
+  y_pred = tf.math.sigmoid(y_pred)
+  y_pred_class = predict_class(y_pred)
+  check_equal = tf.cast(y_pred_class == y,tf.float32)
+  acc_val = tf.reduce_mean(check_equal)
+  return acc_val
+
 
 
 class Adam:
