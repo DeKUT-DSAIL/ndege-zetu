@@ -4,7 +4,7 @@ We present a dataset of over 3000 minute long audio recordings obtained from two
 
 This repository also contains code to analyse these data and reproduce results in an accompanying paper ``Comparing point counts, passive acoustic monitoring, citizen science and machine learning for bird species monitoring in the Mt Kenya ecosystem''  submitted to Philosophical Transactions of the Royal Society B.
 
-We demonstrate the use of embeddings obtained from Google's [Bird Vocalization Classifier](https://www.kaggle.com/models/google/bird-vocalization-classifier) to train classifiers for the species observed.
+We demonstrate the use of embeddings obtained from Google's [Bird Vocalization Classifier (Perch)](https://www.kaggle.com/models/google/bird-vocalization-classifier) to train classifiers for the species observed.
 
 
 
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ```
 
 ## Data Download
-The data are available on Data Dryad at [10.5061/dryad.d51c5b0c7](10.5061/dryad.d51c5b0c7). Download the data and place the recordings in the audio directory.
+The data are available on Data Dryad at [https://datadryad.org/stash/dataset/doi:10.5061/dryad.69g60](https://datadryad.org/stash/dataset/doi:10.5061/dryad.69g60). Download the data and place the recordings in the audio directory.
 
 
 ## Acknowledgements
