@@ -6,6 +6,8 @@ This repository also contains code to analyse these data and reproduce results i
 
 We demonstrate the use of embeddings obtained from Google's [Bird Vocalization Classifier (Perch)](https://www.kaggle.com/models/google/bird-vocalization-classifier) to train classifiers for the species observed.
 
+The data are available on Dryad as the dataset ```wa Maina, Ciira; Njoroge, Peter (2025). Ndege Zetu: A dataset to compare bird species monitoring approaches in the Mt Kenya ecosystem [Dataset]. Dryad. https://doi.org/10.5061/dryad.d51c5b0c7```
+
 
 
 ## Requirements
@@ -30,7 +32,9 @@ pip install -r requirements.txt
 ```
 
 ## Data Download
-The data are available on Data Dryad at [https://datadryad.org/stash/dataset/doi:10.5061/dryad.69g60](https://datadryad.org/stash/dataset/doi:10.5061/dryad.69g60). Download the data and place the recordings in the audio directory.
+Ndege Zetu is available on Dryad at [https://doi.org/10.5061/dryad.d51c5b0c7](https://doi.org/10.5061/dryad.d51c5b0c7). Download the data and place the recordings in the audio directory.
+
+Part of the data were available in an older dataset  [https://datadryad.org/stash/dataset/doi:10.5061/dryad.69g60](https://datadryad.org/stash/dataset/doi:10.5061/dryad.69g60).
 
 
 ## Acknowledgements
