@@ -49,12 +49,6 @@ def main():
 
     for filename in tqdm(file_list):
         print(filename)
-        
-        # skip files with existing embeddings for compute efficiency
-        if f"{filename.split('.')[0]}.npz" in embeddings_list:
-            print(f">>> embedding file for {filename} already exists. jumping...")
-            continue
-            
         audio, sampling_rate = librosa.load(os.path.join(args.input_dir, filename), sr=32000)
         _, wav_data = bhf.ensure_sample_rate(audio, sampling_rate)
         test_frames = bhf.frame_audio(wav_data, hop_size_s=5)
