@@ -73,8 +73,9 @@ def main():
     aru_cns = species_from_df(annotations)
     aru_cns.sort()
     
-    # scientific names
-    df_sp = pd.read_csv('../annotations/Kenya-Species-List.csv')
+    # scientific names - use args.... TODO
+    # df_sp = pd.read_csv('../annotations/Kenya-Species-List.csv')
+    df_sp = pd.read_csv(os.path.join(args.annotations_dir, 'Kenya-Species-List.csv'))
     aru_sns = [df_sp[df_sp['Common Name']==cn].iloc[0]['Scientific Name'] for cn in aru_cns]
 
 
