@@ -47,6 +47,7 @@ def main():
         
     model, _ = bhf.load_model()
 
+    embeddings_list = os.listdir(args.embeddings_dir)
     for filename in tqdm(file_list):
         print(filename)
         
