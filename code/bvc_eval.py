@@ -84,13 +84,13 @@ def main():
     aru_cns.sort()
     
     # scientific names
-    df_sp = pd.read_csv('../annotations/Kenya-Species-List.csv')
+    df_sp = pd.read_csv(os.path.join(args.annotations_dir,'Kenya-Species-List.csv'))
     aru_sns = [df_sp[df_sp['Common Name']==cn].iloc[0]['Scientific Name'] for cn in aru_cns]
 
 
     # ebird codes for Kenyan species
-    df_ebird = pd.read_csv('../annotations/ebird_ke.csv')
-    
+    df_ebird = pd.read_csv(os.path.join(args.annotations_dir, 'ebird_ke.csv'))
+
     # get number of files with species
     num_files = 0
     for indx, filename in enumerate(tqdm(list(annotations['Filename']))):
